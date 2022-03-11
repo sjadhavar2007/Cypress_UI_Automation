@@ -1,0 +1,8 @@
+{
+    "GETurl" : "https://reqres.in/api/users?page=2",
+    "NAME" : "Michael",
+    "POSTurl" : "https://reqres.in/api/users",
+   "PUTurl" : "https://reqres.in/api/users/2",
+   "DeleteURL" : "https://reqres.in/api/users/2"
+   
+}

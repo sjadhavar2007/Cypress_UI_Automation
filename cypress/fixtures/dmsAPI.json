@@ -1,0 +1,4 @@
+{
+    "adminURL" : "https://dmsdev.simbiotiktech.com/api/dms/admin/v1/access-controls",
+    "masterURL" : "https://dmsdev.simbiotiktech.com/api/dms/master/v1/access-controls"
+}
